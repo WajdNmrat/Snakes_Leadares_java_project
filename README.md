@@ -1,0 +1,1 @@
+Jointly with my four partners named , "Samah" , "Abdallah yassin " , " Areen " , "Haya" , Designing a Snakes and Ladders game in the Java language, with complete questions and maps, dice, and all the game components, and making the game based on 3 levels: easy, medium, and difficult.
